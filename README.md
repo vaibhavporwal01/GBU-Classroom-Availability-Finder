@@ -32,7 +32,15 @@ A real-time web app that scrapes live timetable data from [mygbu.in](https://myg
 
 ## Screenshots
 
-> _Add screenshots here after deployment._
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9edc7bfa-3fb0-422a-bf83-034610dc8c29" width="45%" />
+  <img src="https://github.com/user-attachments/assets/b4f31939-26da-4e54-975d-91f0163d18e0" width="45%" />
+</p>
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/03786719-16b7-4813-8e6b-7e4a22df8a29" width="45%" />
+    <img src="https://github.com/user-attachments/assets/5f47d4ad-c91b-4bcf-a19a-06a6f07c171a" width="45%" /> 
+</p>
 
 ---
 
@@ -199,9 +207,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Author
 
 **Vaibhav Porwal**
-Roll No. 235UCS122
-School of Information and Communication Technology
-Gautam Buddha University, Greater Noida
+Roll No. 235UCS122</br>
+School of Information and Communication Technology</br>
+Gautam Buddha University, Greater Noida</br>
 
 ---
 
