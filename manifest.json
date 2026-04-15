@@ -1,0 +1,22 @@
+{
+  "name": "GBU Classroom Availability Finder",
+  "short_name": "GBU Rooms",
+  "description": "Find free classrooms at Gautam Buddha University instantly",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f6f9",
+  "theme_color": "#8B0000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
